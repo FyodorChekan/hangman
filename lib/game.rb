@@ -75,6 +75,7 @@ class Game
   end
 
   private
+  
   def normalize_letter(letter)
     if letter == "Ё"
       "Е"
